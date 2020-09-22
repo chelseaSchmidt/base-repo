@@ -2,7 +2,7 @@
 This repo completes basic setup for a full stack application using React, Express, Node, Webpack, Babel, and ESLint.
 
 ## Create a new repo from this template
-  - Create a new repo in GitHub, selecting "basic-repo" as the template
+  - Create a new repo in GitHub, selecting "base-repo" as the template
   - Update the "name" properties in package.json and package-lock.json to match the repo name
   - Update the title in client/public/index.html (replacing the placeholder text "App")
   - npm install
