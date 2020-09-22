@@ -1,4 +1,12 @@
-#
+# Basic Starter Repo
+This repo completes basic setup for a full stack application using React, Express, Node, Webpack, Babel, and ESLint.
+
+## Create a new repo from this template
+  - Create a new repo in GitHub, selecting "basic-repo" as the template
+  - Update the "name" properties in package.json and package-lock.json to match the repo name
+  - Update the title in client/public/index.html (replacing the placeholder text "App")
+  - npm install
+  - Remove lines 1-8 from this README
 
 ## System requirements
   - Node (version 10.20.1 used in development)
